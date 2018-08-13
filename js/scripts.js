@@ -1,10 +1,8 @@
 $(document).ready(function() {
 
-var elements = ["h1", "p", "img"];
-//
-elements.forEach(function(element) {
-  $(element).click(function() {
-    alert(element);
-  });
+var iceCream = ['chocolate', 'cookies and cream', 'vanilla']
+
+iceCream.forEach(function(flavor){
+  $(".output").append('<li>' + flavor + '</li>')
 });
 });
