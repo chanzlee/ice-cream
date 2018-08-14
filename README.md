@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage create a list by forEach method in jQuery and present it on the bottom of the page._
+_This webpage create a list by forEach method in jQuery and present it on the bottom of the page._
 
 ## Setup/Installation Requirements
 
